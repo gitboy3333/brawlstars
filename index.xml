@@ -19,7 +19,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <link rel="apple-touch-icon" sizes="256x256" href="icon-256.png" />
 <meta name="HandheldFriendly" content="true" />
-<script src="adinLoader.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/adinLoader.js"></script>
 <meta name="mobile-web-app-capable" content="yes" />
 <link rel="shortcut icon" sizes="256x256" href="icon-256.png" />
 
@@ -68,10 +68,10 @@
 </div>
 
 
-<script src="jquery-3.4.1.min.js"></script>
-<script src="pathfind.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/pathfind.js"></script>
 
-<script src="c2runtime.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/c2runtime.js"></script>
 <script>
 		// Start the Construct 2 project running on window load.
 		jQuery(document).ready(function ()
