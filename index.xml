@@ -12,16 +12,16 @@
 <title>BrawlGuys.io</title>
 <script type="text/javascript" src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
 
-<link rel="manifest" href="appmanifest.json" />
+<link rel="manifest" href="https://unblockedgamesboo.com/games/brawl-stars/appmanifest.json" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<link rel="apple-touch-icon" sizes="256x256" href="icon-256.png" />
+<link rel="apple-touch-icon" sizes="256x256" href="https://unblockedgamesboo.com/games/brawl-stars/icon-256.png" />
 <meta name="HandheldFriendly" content="true" />
-<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/adinLoader.js"></script>
+<script src="https://unblockedgamesboo.com/adinLoader.js"></script>
 <meta name="mobile-web-app-capable" content="yes" />
-<link rel="shortcut icon" sizes="256x256" href="icon-256.png" />
+<link rel="shortcut icon" sizes="256x256" href="https://unblockedgamesboo.com/games/brawl-stars/icon-256.png" />
 
 <style type="text/css">
 		* {
@@ -68,10 +68,10 @@
 </div>
 
 
-<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/jquery-3.4.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/pathfind.js"></script>
+<script src="https://unblockedgamesboo.com/games/brawl-stars/jquery-3.4.1.min.js"></script>
+<script src="https://unblockedgamesboo.com/games/brawl-stars/pathfind.js"></script>
 
-<script src="https://cdn.jsdelivr.net/gh/gitboy3333/brawlstars/c2runtime.js"></script>
+<script src="https://unblockedgamesboo.com/games/brawl-stars/c2runtime.js"></script>
 <script>
 		// Start the Construct 2 project running on window load.
 		jQuery(document).ready(function ()
